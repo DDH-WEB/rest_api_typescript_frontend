@@ -25,8 +25,8 @@ export default function Products() {
               to="producto/nuevo"
               className="flex items-center justify-center gap-2 p-3 text-sm font-bold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 transition-colors duration-200"
             >
-              <span className="text-lg font-bold sm:hidden">+</span>
-              <span className="hidden sm:inline">Agregar producto</span>
+              <span className="flex justify-center items-center text-lg sm:hidden h-3 w-3 rounded-full">➕</span>
+              <span className="hidden sm:inline">➕ Agregar producto</span>
             </Link>
         </div>
         <div className="p-2">
