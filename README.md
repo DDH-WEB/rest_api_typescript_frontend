@@ -4,7 +4,7 @@
   <img src="https://imgs.search.brave.com/S6KWiupJjE2CYGI1h8GJcx3G4oDpxaOXPs5E7kCxuPI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtcHJlbWl1/bS9uaW5vLWVzdGEt/ZXNjcmliaWVuZG8t/Y3VhZGVybm8tZXNj/cmliaWVuZG8tYm9s/aWdyYWZvXzMwMDkz/Mi00OTc5LmpwZz9z/ZW10PWFpc19oeWJy/aWQmdz03NDAmcT04/MA" alt="Denis Davila" width="150" height="150" style="border-radius: 50%;">
   
   ### Denis Yampol Davila Huamán
-  **Full Stack Developer | Frontend Specialist**
+  **Full Stack Developer | Frontend**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-yampol-davila-huaman/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denis.dh.web@gmail.com)
